@@ -1,5 +1,5 @@
-# Machine-Learning-Final-Project
-### By: Noam Dothan and Karin Agam
+# Machine Learning Final Project
+#### By: Noam Dothan and Karin Agam
 
 Done as the final project for an Intro to Machine Learning course at Tel Aviv University.
 
