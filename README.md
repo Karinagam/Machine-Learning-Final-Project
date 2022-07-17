@@ -8,4 +8,5 @@ The project contains exploratory data analysis, visualization, feature selection
 
 The project achieved *the 3rd highest test AUC score (92.1%)* in the class using the Random Forest model.
 
+The project is in Jupyter Notebook in Python and Markdown.
 
